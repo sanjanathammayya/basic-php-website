@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: php-website
-        image: yourdockerhubusername/basic-php-website:latest
+        image: sanjana0910/php_new2:v1
         ports:
         - containerPort: 80
